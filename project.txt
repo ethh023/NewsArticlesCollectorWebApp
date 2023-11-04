@@ -1,9 +1,0 @@
-News Aggregator: Create a news aggregator that fetches news articles from different sources or RSS feeds and displays them in a user-friendly format.
-
-OR 
-
-Stock Portfolio Tracker: Develop a tool to track and analyze stock portfolios, including real-time stock price updates and performance metrics.
-
-
-
-
