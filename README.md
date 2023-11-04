@@ -1,0 +1,1 @@
+### News Collector/Grouper Web app using React and a simple backend to store environment variables. Allows users to enter a search item or click on a country to get news about that country and will return news article information back to the user.
